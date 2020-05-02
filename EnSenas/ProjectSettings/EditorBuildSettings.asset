@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: ca51f0f47458dba49a92782bd0bad3c1
+  - enabled: 1
+    path: Assets/Scenes/MenuIntro.unity
+    guid: bf4b2d3feb9405a40bb8f8866698e1d9
+  - enabled: 1
+    path: Assets/Scenes/Registro.unity
+    guid: f122f774636617141b484920fc1b52fc
+  - enabled: 1
+    path: Assets/Scenes/RegistroHijo.unity
+    guid: 9a51a7525aef71f42ba351af22cb24c3
+  - enabled: 1
+    path: Assets/Scenes/Dificultad.unity
+    guid: 0c83ae5f07516c143a8700245eef909d
+  - enabled: 1
+    path: Assets/Scenes/LetrasyNumeros.unity
+    guid: 6d747f0adc10e574cb76931266be2fd9
+  - enabled: 1
+    path: Assets/Scenes/ObjetosyAnimales.unity
+    guid: 4662b56d8454717439b6720cf3f964f1
+  - enabled: 1
+    path: Assets/Scenes/Profesiones.unity
+    guid: 6e76ae6cef6e3a64f9437a5b5cd171f4
+  - enabled: 1
+    path: Assets/Scenes/Acciones.unity
+    guid: 4587f622b3cc0774986530c195180b23
+  - enabled: 1
+    path: Assets/Scenes/Animaletras.unity
+    guid: 528e56c2c336eaf4d8575b2b9b50f3a0
+  - enabled: 1
+    path: Assets/Scenes/123Cuantos.unity
+    guid: 50965490044bf254d84cd9c6f4dba1d3
+  - enabled: 1
+    path: Assets/Scenes/ComoSeLlama.unity
+    guid: 81e838a27d6c3e749b592e7397c914a8
+  - enabled: 1
+    path: Assets/Scenes/SonTantasCosas.unity
+    guid: 6677d351d3fd2ce4ebb532d04f98df2f
+  - enabled: 1
+    path: Assets/Scenes/AquiVeo.unity
+    guid: 89a4e2521ca17974eb542812753dc7c3
+  - enabled: 1
+    path: Assets/Scenes/Insectopedia.unity
+    guid: 2f529b22613e7f448963979580fae0fa
+  - enabled: 1
+    path: Assets/Scenes/ProfesionesYOficios.unity
+    guid: 7c957ee232aee6d49812f83b2c1ef7e5
+  - enabled: 1
+    path: Assets/Scenes/Oficios.unity
+    guid: cc7eb0c6dc59b33499e26cf98f3adb5d
+  - enabled: 1
+    path: Assets/Scenes/ALaCama.unity
+    guid: 823c5b3903ff6b5499c46aaf0d3136b3
+  - enabled: 1
+    path: Assets/Scenes/150Actividades.unity
+    guid: e30a8ef97447e674e8b950c94c2352a7
+  - enabled: 1
+    path: Assets/Scenes/Juegos.unity
+    guid: 8697e03333a2fae41828ef3f6c2df720
+  - enabled: 1
+    path: Assets/Scenes/Preg1.unity
+    guid: c8703d2d59492a3408eec57d5b461a70
+  - enabled: 1
+    path: Assets/Scenes/Preg2.unity
+    guid: 3fa39ec8d1753314faee3dd646ec6dc7
+  - enabled: 1
+    path: Assets/Scenes/Preg3.unity
+    guid: f8029a0d602ef4c41bd00a726f9a9918
+  - enabled: 1
+    path: Assets/Scenes/Preg4.unity
+    guid: f2d87d38340d284498e1fa9fbed50aa8
+  - enabled: 1
+    path: Assets/Scenes/Preg5.unity
+    guid: 1f623ccd62975444bbcc65ad4f7b3449
+  - enabled: 1
+    path: Assets/Scenes/Correcto5.unity
+    guid: 4e35ef76dd12213408b85318e8bb6ef4
+  - enabled: 1
+    path: Assets/Scenes/Correcto1.unity
+    guid: b48a596437e80f3469bfcc3ec26c37da
+  - enabled: 1
+    path: Assets/Scenes/Correcto2.unity
+    guid: 3f59c398e9486934c86a7b47ea014153
+  - enabled: 1
+    path: Assets/Scenes/Correcto3.unity
+    guid: dd7a4a35ece171d44a9b9260d09491fa
+  - enabled: 1
+    path: Assets/Scenes/Correcto4.unity
+    guid: 39c73d141a7294841a9e93b3d9ea1a76
+  - enabled: 1
+    path: Assets/Scenes/Incorrecto5.unity
+    guid: b922a2c50b43c0e4a9b63ff7f0cee961
+  - enabled: 1
+    path: Assets/Scenes/Incorrecto1.unity
+    guid: 73eff836740180340be14d1aca776283
+  - enabled: 1
+    path: Assets/Scenes/Incorrecto2.unity
+    guid: 4d1840f4457b091488d24b60977c575d
+  - enabled: 1
+    path: Assets/Scenes/Incorrecto3.unity
+    guid: 191ef966272319f45a9e531a6de78f7b
+  - enabled: 1
+    path: Assets/Scenes/Incorrecto4.unity
+    guid: 20d6003063c3c62498d50f54ca130fda
+  - enabled: 1
+    path: Assets/Scenes/Resultado.unity
+    guid: 15350ecb2c261064390c9b85e1802ae5
+  - enabled: 1
+    path: Assets/Scenes/UsuarioMostrar.unity
+    guid: 7cd879ffca83a514aabd621778eafb07
+  m_configObjects: {}
